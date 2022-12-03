@@ -1,0 +1,17 @@
+$color--white: rgba(255, 255, 255, 1);
+$color--black: rgba(10, 10, 10, 0.87);
+$color--dark: #171717;
+$color--gray: #ebebeb;
+$color--gray--darken: #afafaf;
+$color--orange--accent: #ff5136;
+$color--orange: rgb(255, 133, 98);
+
+$min-width: 320px;
+$max-width--app: 1920px;
+$max-width: 1280px;
+
+$border-radius: 8px;
+$border-radius-lg: 12px;
+
+$screen-mobile: 'screen and (max-width: 600px)';
+$screen-tablet: 'screen and (max-width: 960px)';
